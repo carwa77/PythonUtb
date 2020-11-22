@@ -1,6 +1,4 @@
-
-
-#Skriver lite här skriver lite mer här
+#Test av dialogruta
 from tkinter import *
 
 root = Tk()
