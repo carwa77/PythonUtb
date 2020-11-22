@@ -1,3 +1,4 @@
+#Ett program för att testa tkinter
 from tkinter import *
 
 root = Tk()
