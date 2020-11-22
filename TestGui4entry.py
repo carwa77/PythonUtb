@@ -1,6 +1,6 @@
 
 
-#Skriver lite här
+#Skriver lite här skriver lite mer här
 from tkinter import *
 
 root = Tk()
