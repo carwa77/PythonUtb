@@ -1,3 +1,6 @@
+
+
+#Skriver lite här
 from tkinter import *
 
 root = Tk()
